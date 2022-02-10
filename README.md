@@ -1,4 +1,4 @@
-# The Internet 0.58.0 (10, February 2020)
+# Techglobal School Testing Lab V1
 
 =======
 
@@ -53,7 +53,6 @@ An example application that captures prominent and ugly functionality found on t
 
 Don't see an example you need or think should be here? Contribute!
 
-
 ## Getting Started
 
 Install your dependencies:
@@ -75,5 +74,3 @@ Load the page you want to see in your browser:
 ## Ulan Notes
 
 - Follow this gist for ruby and rvm installation issues
-
-
